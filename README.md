@@ -8,5 +8,4 @@ This simple app shows all the icons in material-ui-icons with material-ui@next v
 
 Refer to [here](http://106.15.202.140:5000/) to see the result.
 
-
  
